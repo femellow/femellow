@@ -11,7 +11,7 @@ I'm a data and cybersecurity enthusiast with expertise in Python and SQL. I love
 ## Skills
 - **Languages**: Python & SQL
 - **Tools**: Jupyter Notebooks, Linux, Windows, VMs, IDS, SIEM Tools
-- **English, Portuguese and Spanish
+- **English, Portuguese and Spanish**
 
 ## Contact Me
 Feel free to reach out to me on LinkedIn.
